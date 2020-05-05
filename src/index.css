@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(48, 123, 148);
+}
+.main {
+    margin-top: 100px;
+    height: 350px;
+    width: 250px;
+    background-color: lightgreen;
+}
+.clearButton {
+    width: 100%;
+}
+
+.clrbtn {
+    width: 100%;
+}
+.screen {
+    height: 80px;
+    width: 100%;
+    text-align: right;
+}
